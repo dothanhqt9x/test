@@ -8,3 +8,4 @@ ls | grep searchByKey
 
 
  git remote add origin linkRepo
+ git push origin master
