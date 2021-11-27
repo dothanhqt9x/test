@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-27T02:16:58.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="vna9s28WYk2yNuT_T72P" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-27T02:22:33.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="7PNlgb72QszRsSBelVY-" version="15.8.6" type="github">
   <diagram id="bLwZM_dUicginmmRhE-3" name="Page-1">
     <mxGraphModel dx="1022" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="3847Y8z8ANCtvxGhx_Vw-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="390" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3847Y8z8ANCtvxGhx_Vw-4" value="Xem thông tin cá nhân" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3847Y8z8ANCtvxGhx_Vw-4" value="Quản lý&amp;nbsp; thông tin cá nhân" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3847Y8z8ANCtvxGhx_Vw-6" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
